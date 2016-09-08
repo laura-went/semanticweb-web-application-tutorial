@@ -163,7 +163,7 @@ Once you have Python, Java and Stardog in place, you can try out the Semantic We
 	* If you want to use a different name or location (i.e. not running on localhost, port 5820) you need to set the `TUTORIAL_REPOSITORY` variable in `src/tutorial.py`, and make appropriate modifications to the Stardog configuration.
 * Run the tutorial from within the `src` directory by running `python tutorial.py`
 
-Other information on how to run the tutorial can be found in the readme file on the GitHub page of the tutorial: <https://github.com/RinkeHoekstra/semantic-web-application-tutorial>.
+Other information on how to run the tutorial can be found in the readme file on the GitHub page of the tutorial: <https://github.com/RinkeHoekstra/semanticweb-web-application-tutorial>.
 
 #### The Ultimate Test: does it work?
 
