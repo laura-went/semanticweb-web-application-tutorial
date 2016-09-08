@@ -118,7 +118,7 @@ One way to get it running:
 * Move or copy the unzipped directory `stardog-4.1.3` to your `Documents` folder. You now have a directory called `/Users/YOURUSERNAME/Documents/stardog-4.1.3`
 * Create a `data` directory inside it, this is now `/Users/YOURUSERNAME/Documents/stardog-4.1.3/data`
 * Copy the `stardog-license.bin` to `/Users/YOURUSERNAME/Documents/stardog-4.1.3/data`
-* Open up a Terminal window, and type `open ~/.bash_profile`, this opens a TextEdit window on mac. Linux users will know what to do.
+* Open up a Terminal window, and type `open ~/.bash_profile`, this opens a TextEdit window on mac (on some macs this does not work due to configuration, a possible solution is to use vim ~/.bash_profile, exit with command wq, and then retry `open ~/.bash_profile`). Linux users will know what to do.
 * Add the following lines anywhere in the file:
 
 ```
