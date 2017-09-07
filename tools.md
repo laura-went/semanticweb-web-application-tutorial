@@ -41,6 +41,7 @@ If needed:
 * Windows users can go to <https://www.python.org> to download it.  
   **NB**: make sure to enable the 'Add Python.exe to path' option during installation.
 * Linux users should use the package manager of their system (e.g. `sudo apt-get install python`)
+* Windows users which encounter a c++ error while using pip.exe, please install: https://www.microsoft.com/en-us/download/details.aspx?id=44266
 * MacOS comes with a pre-installed version, but you may consider using [Homebrew](http://brew.sh) to install a clean and up-to-date version.
   - Start the Terminal application
   - Run `ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"` from the terminal
