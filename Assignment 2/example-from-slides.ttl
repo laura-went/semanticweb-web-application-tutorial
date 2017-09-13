@@ -16,7 +16,7 @@ ex:Germany a ex:EuropeanCountry .
 
 # Here, we already have a bit of explicit knowledge. We will deal with this in more detail in Module 3, but use it already for Task 3 of Module 2.
 
-ex:Capital rdfs:subclassOf ex:City .
+ex:Capital rdfs:subClassOf ex:City .
 
 ex:EuropeanCountry rdfs:subClassOf ex:Country .
 
