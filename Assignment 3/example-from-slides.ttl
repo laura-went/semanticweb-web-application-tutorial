@@ -12,7 +12,8 @@ ex:Netherlands ex:has_Capital ex:Amsterdam .
 ex:Amsterdam a ex:Capital .
 ex:Amsterdam ex:closeBy ex:Germany .
 ex:Germany a ex:EuropeanCountry .
-ex:Netherlands ex:contains ex:Rotterdam . 
+ex:Netherlands ex:containsCity ex:Rotterdam . 
+ex:Netherlands ex:contains ex:Ijsselmeer . 
 ex:Germany ex:hasCapital ex:Berlin .
 
 ex:Country rdfs:subClassOf ex:Location . 
@@ -29,3 +30,5 @@ ex:containsCity rdfs:domain ex:Country;
 
 ex:hasCapital rdfs:subPropertyOf ex:containsCity;
 	rdfs:range ex:Capital .
+
+ex:containsCity rdfs:subPropertyOf ex:contains .
