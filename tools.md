@@ -31,14 +31,16 @@ Java HotSpot(TM) 64-Bit Server VM (build 25.101-b13, mixed mode)
 ```
 
 ### 2.3 Python
-A working version of **Python**, preferably somewhat close to 2.7.12 (but not 2.6 or 3.x) for your platform of choice.
+A working version of **Python**, preferably somewhat close to 3.7  for your platform of choice.
+
+(you might need **Python** 2.7 later, but for the time being, please install version 3.7)
 
 * Check what version you have by running `python --version` in a terminal (or command prompt) window
 
 **NB:** if you are an Anaconda user, and you're happy with it (are you?), you should replace all occurrences of `pip` below with the corresponding `conda` command. 
 
 If needed:
-* Conda users can install Python 2.7 by running `conda install python=2.7` in the Terminal.
+* Conda users can install Python 3.7 by running `conda install python=3.7` in the Terminal.
 * Windows users can go to <https://www.python.org> to download it.  
   **NB**: make sure to enable the 'Add Python.exe to path' option during installation.
   If the system still has problems in finding Python or pip add `C:\Python27\Scripts` to your `PATH` environment variable.
