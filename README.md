@@ -1,6 +1,6 @@
-## Tutorial for the Semantic Web course
+## Tutorial for the Knowledge & Data course
 ### @VU University Amsterdam and University of Amsterdam
-#### Rinke Hoekstra (<rinke.hoekstra@vu.nl>/<hoekstra@uva.nl>)
+#### Based on work by Rinke Hoekstra (<rinke.hoekstra@vu.nl>/<hoekstra@uva.nl>) in https://github.com/RinkeHoekstra/semanticweb-web-application-tutorial
 
 This tutorial shows the basics for building a Semantic Web-based application by guiding you through some of the typical steps involved. This means:
 
@@ -14,7 +14,7 @@ The code is documented and explains each of these steps. All server-side code is
 
 ### Preliminaries
 
-If you are a student of the Semantic Web course at the VU, make sure to follow the steps in the the [tools document](tools.md) to make sure you have everything in place to make this code work.
+If you are a student of the Knowledge & Data course at the VU, make sure to follow the steps in the the [tools document](tools.md) to make sure you have everything in place to make this code work.
 
 It will also contain detailed steps for installing the tutorial itself.
 
