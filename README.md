@@ -1,4 +1,4 @@
-## Tutorial for the Knowledge & Data course
+## Tutorial and assignments for the Knowledge & Data course
 ### @VU University Amsterdam and University of Amsterdam
 #### Based on work by Rinke Hoekstra (<rinke.hoekstra@vu.nl>/<hoekstra@uva.nl>) in https://github.com/RinkeHoekstra/semanticweb-web-application-tutorial
 
